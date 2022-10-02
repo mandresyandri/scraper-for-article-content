@@ -9,7 +9,10 @@ Built with `Python` with those frameworks  :
 2. Cleaning data => `re` (Regex match)
 3. Check if database exists => `os` 
 4. Database => `sqlite3` 
-5. From database to web page => `json`
+5. From database to client => `json`
+6. Write pdf => `fpdf` 
+
+read [this](https://pyfpdf.readthedocs.io/en/latest/Tutorial/index.html#line-breaks-and-colors) documentation to understand how to write multiple line pdf.
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
