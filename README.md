@@ -9,6 +9,7 @@ Built with `Python` with those frameworks  :
 2. Cleaning data => `re` (Regex match)
 3. Check if database exists => `os` 
 4. Database => `sqlite3` 
+5. From database to web page => `json`
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
