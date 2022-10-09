@@ -96,3 +96,7 @@ else:
 
 with open('data.json', "w", encoding="utf-8") as file:
     json.dump(element_from_db, file, indent=4)
+
+# write the pdf file for client 
+import to_pdf 
+to_pdf.write_pdf()
